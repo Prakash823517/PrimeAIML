@@ -1,0 +1,6 @@
+Python is a 
+high-level 
+interprated
+dynamically typed
+programming language
+Program run successfullyProgram run successfullyProgram run successfully

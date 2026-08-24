@@ -1,0 +1,7 @@
+num = input("input: ")
+int1 = int(num)
+print(int1, type(int1))
+float1 = float(num)
+print(float1, type(float1))
+string1 = str(num)
+print(string1, type(string1))
