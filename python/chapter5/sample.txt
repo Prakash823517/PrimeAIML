@@ -1,0 +1,4 @@
+123is a sample file
+for demo of 
+File I/O in Python 
+Programming language.
